@@ -1,0 +1,2396 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ANIMATION_INFO</key>
+	<array/>
+	<key>Author</key>
+	<string>Bogdan Vladu</string>
+	<key>BatchZOrder</key>
+	<integer>0</integer>
+	<key>CreatedWith</key>
+	<string>SpriteHelper</string>
+	<key>ImportedImages</key>
+	<array>
+		<string>/Users/yuncholho/work/sip324/EyeBall/code/EyeFall/EyeFall_LH/Resources/game/map/meta_data.png</string>
+	</array>
+	<key>ImportedImages-HD</key>
+	<array>
+		<string>/Users/yuncholho/work/sip324/EyeBall/code/EyeFall/EyeFall_LH/Resources/game/map/meta_data-hd.png</string>
+	</array>
+	<key>ImportedImages-HD_relative</key>
+	<array>
+		<string>meta_data-hd.png</string>
+	</array>
+	<key>ImportedImages_relative</key>
+	<array>
+		<string>meta_data.png</string>
+	</array>
+	<key>SPRITES_INFO</key>
+	<array>
+		<dict>
+			<key>PhysicProperties</key>
+			<dict>
+				<key>AngularDamping</key>
+				<real>0.0</real>
+				<key>AngularVelocity</key>
+				<real>0.0</real>
+				<key>CanSleep</key>
+				<true/>
+				<key>Category</key>
+				<integer>1</integer>
+				<key>Density</key>
+				<real>0.20000000298023224</real>
+				<key>Fixtures</key>
+				<array/>
+				<key>Friction</key>
+				<real>0.20000000298023224</real>
+				<key>Group</key>
+				<integer>0</integer>
+				<key>IsBullet</key>
+				<false/>
+				<key>IsCircle</key>
+				<false/>
+				<key>IsFixedRot</key>
+				<false/>
+				<key>IsSensor</key>
+				<false/>
+				<key>LinearDamping</key>
+				<real>0.0</real>
+				<key>LinearVelocityX</key>
+				<real>0.0</real>
+				<key>LinearVelocityY</key>
+				<real>0.0</real>
+				<key>Mask</key>
+				<integer>65535</integer>
+				<key>PhysicType</key>
+				<integer>0</integer>
+				<key>Restitution</key>
+				<real>0.20000000298023224</real>
+				<key>SHHolesPoints</key>
+				<array/>
+				<key>SHShapePoints</key>
+				<array/>
+				<key>ShapeBorderH</key>
+				<integer>0</integer>
+				<key>ShapeBorderW</key>
+				<integer>0</integer>
+				<key>ShapePositionOffsetX</key>
+				<integer>0</integer>
+				<key>ShapePositionOffsetY</key>
+				<integer>0</integer>
+			</dict>
+			<key>TextureProperties</key>
+			<dict>
+				<key>Color</key>
+				<string>{{1, 1}, {1, 0}}</string>
+				<key>Frame</key>
+				<string>{{56, 173}, {50.5, 8}}</string>
+				<key>Frame-HD</key>
+				<string>{{112, 346}, {101, 16}}</string>
+				<key>FrameUV</key>
+				<string>{{0.282828, 0.930108}, {0.537879, 0.973118}}</string>
+				<key>HD_ImageSize</key>
+				<string>{396, 372}</string>
+				<key>Image</key>
+				<string>meta_data.png</string>
+				<key>Image-HD</key>
+				<string>meta_data-hd.png</string>
+				<key>ImageURL</key>
+				<string>/Users/yuncholho/work/sip324/EyeBall/code/EyeFall/EyeFall_LH/Resources/game/map/meta_data.png</string>
+				<key>ImageURL-HD</key>
+				<string>/Users/yuncholho/work/sip324/EyeBall/code/EyeFall/EyeFall_LH/Resources/game/map/meta_data-hd.png</string>
+				<key>Name</key>
+				<string>wood1</string>
+				<key>Opacity</key>
+				<real>1</real>
+				<key>SD_ImageSize</key>
+				<string>{198, 186}</string>
+				<key>Scale</key>
+				<string>{1, 1}</string>
+				<key>ZOrder</key>
+				<integer>0</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>PhysicProperties</key>
+			<dict>
+				<key>AngularDamping</key>
+				<real>0.0</real>
+				<key>AngularVelocity</key>
+				<real>0.0</real>
+				<key>CanSleep</key>
+				<true/>
+				<key>Category</key>
+				<integer>1</integer>
+				<key>Density</key>
+				<real>0.20000000298023224</real>
+				<key>Fixtures</key>
+				<array/>
+				<key>Friction</key>
+				<real>0.20000000298023224</real>
+				<key>Group</key>
+				<integer>0</integer>
+				<key>IsBullet</key>
+				<false/>
+				<key>IsCircle</key>
+				<false/>
+				<key>IsFixedRot</key>
+				<false/>
+				<key>IsSensor</key>
+				<false/>
+				<key>LinearDamping</key>
+				<real>0.0</real>
+				<key>LinearVelocityX</key>
+				<real>0.0</real>
+				<key>LinearVelocityY</key>
+				<real>0.0</real>
+				<key>Mask</key>
+				<integer>65535</integer>
+				<key>PhysicType</key>
+				<integer>0</integer>
+				<key>Restitution</key>
+				<real>0.20000000298023224</real>
+				<key>SHHolesPoints</key>
+				<array/>
+				<key>SHShapePoints</key>
+				<array/>
+				<key>ShapeBorderH</key>
+				<integer>0</integer>
+				<key>ShapeBorderW</key>
+				<integer>0</integer>
+				<key>ShapePositionOffsetX</key>
+				<integer>0</integer>
+				<key>ShapePositionOffsetY</key>
+				<integer>0</integer>
+			</dict>
+			<key>TextureProperties</key>
+			<dict>
+				<key>Color</key>
+				<string>{{1, 1}, {1, 0}}</string>
+				<key>Frame</key>
+				<string>{{129, 161}, {40, 10}}</string>
+				<key>Frame-HD</key>
+				<string>{{258, 322}, {80, 20}}</string>
+				<key>FrameUV</key>
+				<string>{{0.651515, 0.865591}, {0.853535, 0.919355}}</string>
+				<key>HD_ImageSize</key>
+				<string>{396, 372}</string>
+				<key>Image</key>
+				<string>meta_data.png</string>
+				<key>Image-HD</key>
+				<string>meta_data-hd.png</string>
+				<key>ImageURL</key>
+				<string>/Users/yuncholho/work/sip324/EyeBall/code/EyeFall/EyeFall_LH/Resources/game/map/meta_data.png</string>
+				<key>ImageURL-HD</key>
+				<string>/Users/yuncholho/work/sip324/EyeBall/code/EyeFall/EyeFall_LH/Resources/game/map/meta_data-hd.png</string>
+				<key>Name</key>
+				<string>gold2</string>
+				<key>Opacity</key>
+				<real>1</real>
+				<key>SD_ImageSize</key>
+				<string>{198, 186}</string>
+				<key>Scale</key>
+				<string>{1, 1}</string>
+				<key>ZOrder</key>
+				<integer>0</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>PhysicProperties</key>
+			<dict>
+				<key>AngularDamping</key>
+				<real>0.0</real>
+				<key>AngularVelocity</key>
+				<real>0.0</real>
+				<key>CanSleep</key>
+				<true/>
+				<key>Category</key>
+				<integer>1</integer>
+				<key>Density</key>
+				<real>0.20000000298023224</real>
+				<key>Fixtures</key>
+				<array/>
+				<key>Friction</key>
+				<real>0.20000000298023224</real>
+				<key>Group</key>
+				<integer>0</integer>
+				<key>IsBullet</key>
+				<false/>
+				<key>IsCircle</key>
+				<false/>
+				<key>IsFixedRot</key>
+				<false/>
+				<key>IsSensor</key>
+				<false/>
+				<key>LinearDamping</key>
+				<real>0.0</real>
+				<key>LinearVelocityX</key>
+				<real>0.0</real>
+				<key>LinearVelocityY</key>
+				<real>0.0</real>
+				<key>Mask</key>
+				<integer>65535</integer>
+				<key>PhysicType</key>
+				<integer>0</integer>
+				<key>Restitution</key>
+				<real>0.20000000298023224</real>
+				<key>SHHolesPoints</key>
+				<array/>
+				<key>SHShapePoints</key>
+				<array/>
+				<key>ShapeBorderH</key>
+				<integer>0</integer>
+				<key>ShapeBorderW</key>
+				<integer>0</integer>
+				<key>ShapePositionOffsetX</key>
+				<integer>0</integer>
+				<key>ShapePositionOffsetY</key>
+				<integer>0</integer>
+			</dict>
+			<key>TextureProperties</key>
+			<dict>
+				<key>Color</key>
+				<string>{{1, 1}, {1, 0}}</string>
+				<key>Frame</key>
+				<string>{{56, 161}, {60, 10}}</string>
+				<key>Frame-HD</key>
+				<string>{{112, 322}, {120, 20}}</string>
+				<key>FrameUV</key>
+				<string>{{0.282828, 0.865591}, {0.585859, 0.919355}}</string>
+				<key>HD_ImageSize</key>
+				<string>{396, 372}</string>
+				<key>Image</key>
+				<string>meta_data.png</string>
+				<key>Image-HD</key>
+				<string>meta_data-hd.png</string>
+				<key>ImageURL</key>
+				<string>/Users/yuncholho/work/sip324/EyeBall/code/EyeFall/EyeFall_LH/Resources/game/map/meta_data.png</string>
+				<key>ImageURL-HD</key>
+				<string>/Users/yuncholho/work/sip324/EyeBall/code/EyeFall/EyeFall_LH/Resources/game/map/meta_data-hd.png</string>
+				<key>Name</key>
+				<string>steel3</string>
+				<key>Opacity</key>
+				<real>1</real>
+				<key>SD_ImageSize</key>
+				<string>{198, 186}</string>
+				<key>Scale</key>
+				<string>{1, 1}</string>
+				<key>ZOrder</key>
+				<integer>0</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>PhysicProperties</key>
+			<dict>
+				<key>AngularDamping</key>
+				<real>0.0</real>
+				<key>AngularVelocity</key>
+				<real>0.0</real>
+				<key>CanSleep</key>
+				<true/>
+				<key>Category</key>
+				<integer>1</integer>
+				<key>Density</key>
+				<real>0.20000000298023224</real>
+				<key>Fixtures</key>
+				<array/>
+				<key>Friction</key>
+				<real>0.20000000298023224</real>
+				<key>Group</key>
+				<integer>0</integer>
+				<key>IsBullet</key>
+				<false/>
+				<key>IsCircle</key>
+				<false/>
+				<key>IsFixedRot</key>
+				<false/>
+				<key>IsSensor</key>
+				<false/>
+				<key>LinearDamping</key>
+				<real>0.0</real>
+				<key>LinearVelocityX</key>
+				<real>0.0</real>
+				<key>LinearVelocityY</key>
+				<real>0.0</real>
+				<key>Mask</key>
+				<integer>65535</integer>
+				<key>PhysicType</key>
+				<integer>0</integer>
+				<key>Restitution</key>
+				<real>0.20000000298023224</real>
+				<key>SHHolesPoints</key>
+				<array/>
+				<key>SHShapePoints</key>
+				<array/>
+				<key>ShapeBorderH</key>
+				<integer>0</integer>
+				<key>ShapeBorderW</key>
+				<integer>0</integer>
+				<key>ShapePositionOffsetX</key>
+				<integer>0</integer>
+				<key>ShapePositionOffsetY</key>
+				<integer>0</integer>
+			</dict>
+			<key>TextureProperties</key>
+			<dict>
+				<key>Color</key>
+				<string>{{1, 1}, {1, 0}}</string>
+				<key>Frame</key>
+				<string>{{27, 150}, {8, 35.5}}</string>
+				<key>Frame-HD</key>
+				<string>{{54, 300}, {16, 71}}</string>
+				<key>FrameUV</key>
+				<string>{{0.136364, 0.806452}, {0.176768, 0.997312}}</string>
+				<key>HD_ImageSize</key>
+				<string>{396, 372}</string>
+				<key>Image</key>
+				<string>meta_data.png</string>
+				<key>Image-HD</key>
+				<string>meta_data-hd.png</string>
+				<key>ImageURL</key>
+				<string>/Users/yuncholho/work/sip324/EyeBall/code/EyeFall/EyeFall_LH/Resources/game/map/meta_data.png</string>
+				<key>ImageURL-HD</key>
+				<string>/Users/yuncholho/work/sip324/EyeBall/code/EyeFall/EyeFall_LH/Resources/game/map/meta_data-hd.png</string>
+				<key>Name</key>
+				<string>wood2</string>
+				<key>Opacity</key>
+				<real>1</real>
+				<key>SD_ImageSize</key>
+				<string>{198, 186}</string>
+				<key>Scale</key>
+				<string>{1, 1}</string>
+				<key>ZOrder</key>
+				<integer>0</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>PhysicProperties</key>
+			<dict>
+				<key>AngularDamping</key>
+				<real>0.0</real>
+				<key>AngularVelocity</key>
+				<real>0.0</real>
+				<key>CanSleep</key>
+				<true/>
+				<key>Category</key>
+				<integer>1</integer>
+				<key>Density</key>
+				<real>0.20000000298023224</real>
+				<key>Fixtures</key>
+				<array/>
+				<key>Friction</key>
+				<real>0.20000000298023224</real>
+				<key>Group</key>
+				<integer>0</integer>
+				<key>IsBullet</key>
+				<false/>
+				<key>IsCircle</key>
+				<false/>
+				<key>IsFixedRot</key>
+				<false/>
+				<key>IsSensor</key>
+				<false/>
+				<key>LinearDamping</key>
+				<real>0.0</real>
+				<key>LinearVelocityX</key>
+				<real>0.0</real>
+				<key>LinearVelocityY</key>
+				<real>0.0</real>
+				<key>Mask</key>
+				<integer>65535</integer>
+				<key>PhysicType</key>
+				<integer>0</integer>
+				<key>Restitution</key>
+				<real>0.20000000298023224</real>
+				<key>SHHolesPoints</key>
+				<array/>
+				<key>SHShapePoints</key>
+				<array/>
+				<key>ShapeBorderH</key>
+				<integer>0</integer>
+				<key>ShapeBorderW</key>
+				<integer>0</integer>
+				<key>ShapePositionOffsetX</key>
+				<integer>0</integer>
+				<key>ShapePositionOffsetY</key>
+				<integer>0</integer>
+			</dict>
+			<key>TextureProperties</key>
+			<dict>
+				<key>Color</key>
+				<string>{{1, 1}, {1, 0}}</string>
+				<key>Frame</key>
+				<string>{{129, 148}, {40, 10}}</string>
+				<key>Frame-HD</key>
+				<string>{{258, 296}, {80, 20}}</string>
+				<key>FrameUV</key>
+				<string>{{0.651515, 0.795699}, {0.853535, 0.849462}}</string>
+				<key>HD_ImageSize</key>
+				<string>{396, 372}</string>
+				<key>Image</key>
+				<string>meta_data.png</string>
+				<key>Image-HD</key>
+				<string>meta_data-hd.png</string>
+				<key>ImageURL</key>
+				<string>/Users/yuncholho/work/sip324/EyeBall/code/EyeFall/EyeFall_LH/Resources/game/map/meta_data.png</string>
+				<key>ImageURL-HD</key>
+				<string>/Users/yuncholho/work/sip324/EyeBall/code/EyeFall/EyeFall_LH/Resources/game/map/meta_data-hd.png</string>
+				<key>Name</key>
+				<string>acid2</string>
+				<key>Opacity</key>
+				<real>1</real>
+				<key>SD_ImageSize</key>
+				<string>{198, 186}</string>
+				<key>Scale</key>
+				<string>{1, 1}</string>
+				<key>ZOrder</key>
+				<integer>0</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>PhysicProperties</key>
+			<dict>
+				<key>AngularDamping</key>
+				<real>0.0</real>
+				<key>AngularVelocity</key>
+				<real>0.0</real>
+				<key>CanSleep</key>
+				<true/>
+				<key>Category</key>
+				<integer>1</integer>
+				<key>Density</key>
+				<real>0.20000000298023224</real>
+				<key>Fixtures</key>
+				<array/>
+				<key>Friction</key>
+				<real>0.20000000298023224</real>
+				<key>Group</key>
+				<integer>0</integer>
+				<key>IsBullet</key>
+				<false/>
+				<key>IsCircle</key>
+				<false/>
+				<key>IsFixedRot</key>
+				<false/>
+				<key>IsSensor</key>
+				<false/>
+				<key>LinearDamping</key>
+				<real>0.0</real>
+				<key>LinearVelocityX</key>
+				<real>0.0</real>
+				<key>LinearVelocityY</key>
+				<real>0.0</real>
+				<key>Mask</key>
+				<integer>65535</integer>
+				<key>PhysicType</key>
+				<integer>0</integer>
+				<key>Restitution</key>
+				<real>0.20000000298023224</real>
+				<key>SHHolesPoints</key>
+				<array/>
+				<key>SHShapePoints</key>
+				<array/>
+				<key>ShapeBorderH</key>
+				<integer>0</integer>
+				<key>ShapeBorderW</key>
+				<integer>0</integer>
+				<key>ShapePositionOffsetX</key>
+				<integer>0</integer>
+				<key>ShapePositionOffsetY</key>
+				<integer>0</integer>
+			</dict>
+			<key>TextureProperties</key>
+			<dict>
+				<key>Color</key>
+				<string>{{1, 1}, {1, 0}}</string>
+				<key>Frame</key>
+				<string>{{56, 148}, {60, 10}}</string>
+				<key>Frame-HD</key>
+				<string>{{112, 296}, {120, 20}}</string>
+				<key>FrameUV</key>
+				<string>{{0.282828, 0.795699}, {0.585859, 0.849462}}</string>
+				<key>HD_ImageSize</key>
+				<string>{396, 372}</string>
+				<key>Image</key>
+				<string>meta_data.png</string>
+				<key>Image-HD</key>
+				<string>meta_data-hd.png</string>
+				<key>ImageURL</key>
+				<string>/Users/yuncholho/work/sip324/EyeBall/code/EyeFall/EyeFall_LH/Resources/game/map/meta_data.png</string>
+				<key>ImageURL-HD</key>
+				<string>/Users/yuncholho/work/sip324/EyeBall/code/EyeFall/EyeFall_LH/Resources/game/map/meta_data-hd.png</string>
+				<key>Name</key>
+				<string>gold3</string>
+				<key>Opacity</key>
+				<real>1</real>
+				<key>SD_ImageSize</key>
+				<string>{198, 186}</string>
+				<key>Scale</key>
+				<string>{1, 1}</string>
+				<key>ZOrder</key>
+				<integer>0</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>PhysicProperties</key>
+			<dict>
+				<key>AngularDamping</key>
+				<real>0.0</real>
+				<key>AngularVelocity</key>
+				<real>0.0</real>
+				<key>CanSleep</key>
+				<true/>
+				<key>Category</key>
+				<integer>1</integer>
+				<key>Density</key>
+				<real>0.20000000298023224</real>
+				<key>Fixtures</key>
+				<array/>
+				<key>Friction</key>
+				<real>0.20000000298023224</real>
+				<key>Group</key>
+				<integer>0</integer>
+				<key>IsBullet</key>
+				<false/>
+				<key>IsCircle</key>
+				<false/>
+				<key>IsFixedRot</key>
+				<false/>
+				<key>IsSensor</key>
+				<false/>
+				<key>LinearDamping</key>
+				<real>0.0</real>
+				<key>LinearVelocityX</key>
+				<real>0.0</real>
+				<key>LinearVelocityY</key>
+				<real>0.0</real>
+				<key>Mask</key>
+				<integer>65535</integer>
+				<key>PhysicType</key>
+				<integer>0</integer>
+				<key>Restitution</key>
+				<real>0.20000000298023224</real>
+				<key>SHHolesPoints</key>
+				<array/>
+				<key>SHShapePoints</key>
+				<array/>
+				<key>ShapeBorderH</key>
+				<integer>0</integer>
+				<key>ShapeBorderW</key>
+				<integer>0</integer>
+				<key>ShapePositionOffsetX</key>
+				<integer>0</integer>
+				<key>ShapePositionOffsetY</key>
+				<integer>0</integer>
+			</dict>
+			<key>TextureProperties</key>
+			<dict>
+				<key>Color</key>
+				<string>{{1, 1}, {1, 0}}</string>
+				<key>Frame</key>
+				<string>{{129, 136}, {40, 10}}</string>
+				<key>Frame-HD</key>
+				<string>{{258, 272}, {80, 20}}</string>
+				<key>FrameUV</key>
+				<string>{{0.651515, 0.731183}, {0.853535, 0.784946}}</string>
+				<key>HD_ImageSize</key>
+				<string>{396, 372}</string>
+				<key>Image</key>
+				<string>meta_data.png</string>
+				<key>Image-HD</key>
+				<string>meta_data-hd.png</string>
+				<key>ImageURL</key>
+				<string>/Users/yuncholho/work/sip324/EyeBall/code/EyeFall/EyeFall_LH/Resources/game/map/meta_data.png</string>
+				<key>ImageURL-HD</key>
+				<string>/Users/yuncholho/work/sip324/EyeBall/code/EyeFall/EyeFall_LH/Resources/game/map/meta_data-hd.png</string>
+				<key>Name</key>
+				<string>ice2</string>
+				<key>Opacity</key>
+				<real>1</real>
+				<key>SD_ImageSize</key>
+				<string>{198, 186}</string>
+				<key>Scale</key>
+				<string>{1, 1}</string>
+				<key>ZOrder</key>
+				<integer>0</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>PhysicProperties</key>
+			<dict>
+				<key>AngularDamping</key>
+				<real>0.0</real>
+				<key>AngularVelocity</key>
+				<real>0.0</real>
+				<key>CanSleep</key>
+				<true/>
+				<key>Category</key>
+				<integer>1</integer>
+				<key>Density</key>
+				<real>0.20000000298023224</real>
+				<key>Fixtures</key>
+				<array/>
+				<key>Friction</key>
+				<real>0.20000000298023224</real>
+				<key>Group</key>
+				<integer>0</integer>
+				<key>IsBullet</key>
+				<false/>
+				<key>IsCircle</key>
+				<false/>
+				<key>IsFixedRot</key>
+				<false/>
+				<key>IsSensor</key>
+				<false/>
+				<key>LinearDamping</key>
+				<real>0.0</real>
+				<key>LinearVelocityX</key>
+				<real>0.0</real>
+				<key>LinearVelocityY</key>
+				<real>0.0</real>
+				<key>Mask</key>
+				<integer>65535</integer>
+				<key>PhysicType</key>
+				<integer>0</integer>
+				<key>Restitution</key>
+				<real>0.20000000298023224</real>
+				<key>SHHolesPoints</key>
+				<array/>
+				<key>SHShapePoints</key>
+				<array/>
+				<key>ShapeBorderH</key>
+				<integer>0</integer>
+				<key>ShapeBorderW</key>
+				<integer>0</integer>
+				<key>ShapePositionOffsetX</key>
+				<integer>0</integer>
+				<key>ShapePositionOffsetY</key>
+				<integer>0</integer>
+			</dict>
+			<key>TextureProperties</key>
+			<dict>
+				<key>Color</key>
+				<string>{{1, 1}, {1, 0}}</string>
+				<key>Frame</key>
+				<string>{{56, 136}, {60, 10}}</string>
+				<key>Frame-HD</key>
+				<string>{{112, 272}, {120, 20}}</string>
+				<key>FrameUV</key>
+				<string>{{0.282828, 0.731183}, {0.585859, 0.784946}}</string>
+				<key>HD_ImageSize</key>
+				<string>{396, 372}</string>
+				<key>Image</key>
+				<string>meta_data.png</string>
+				<key>Image-HD</key>
+				<string>meta_data-hd.png</string>
+				<key>ImageURL</key>
+				<string>/Users/yuncholho/work/sip324/EyeBall/code/EyeFall/EyeFall_LH/Resources/game/map/meta_data.png</string>
+				<key>ImageURL-HD</key>
+				<string>/Users/yuncholho/work/sip324/EyeBall/code/EyeFall/EyeFall_LH/Resources/game/map/meta_data-hd.png</string>
+				<key>Name</key>
+				<string>ice3</string>
+				<key>Opacity</key>
+				<real>1</real>
+				<key>SD_ImageSize</key>
+				<string>{198, 186}</string>
+				<key>Scale</key>
+				<string>{1, 1}</string>
+				<key>ZOrder</key>
+				<integer>0</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>PhysicProperties</key>
+			<dict>
+				<key>AngularDamping</key>
+				<real>0.0</real>
+				<key>AngularVelocity</key>
+				<real>0.0</real>
+				<key>CanSleep</key>
+				<true/>
+				<key>Category</key>
+				<integer>1</integer>
+				<key>Density</key>
+				<real>0.20000000298023224</real>
+				<key>Fixtures</key>
+				<array/>
+				<key>Friction</key>
+				<real>0.20000000298023224</real>
+				<key>Group</key>
+				<integer>0</integer>
+				<key>IsBullet</key>
+				<false/>
+				<key>IsCircle</key>
+				<false/>
+				<key>IsFixedRot</key>
+				<false/>
+				<key>IsSensor</key>
+				<false/>
+				<key>LinearDamping</key>
+				<real>0.0</real>
+				<key>LinearVelocityX</key>
+				<real>0.0</real>
+				<key>LinearVelocityY</key>
+				<real>0.0</real>
+				<key>Mask</key>
+				<integer>65535</integer>
+				<key>PhysicType</key>
+				<integer>0</integer>
+				<key>Restitution</key>
+				<real>0.20000000298023224</real>
+				<key>SHHolesPoints</key>
+				<array/>
+				<key>SHShapePoints</key>
+				<array/>
+				<key>ShapeBorderH</key>
+				<integer>0</integer>
+				<key>ShapeBorderW</key>
+				<integer>0</integer>
+				<key>ShapePositionOffsetX</key>
+				<integer>0</integer>
+				<key>ShapePositionOffsetY</key>
+				<integer>0</integer>
+			</dict>
+			<key>TextureProperties</key>
+			<dict>
+				<key>Color</key>
+				<string>{{1, 1}, {1, 0}}</string>
+				<key>Frame</key>
+				<string>{{172, 123}, {25, 10}}</string>
+				<key>Frame-HD</key>
+				<string>{{344, 246}, {50, 20}}</string>
+				<key>FrameUV</key>
+				<string>{{0.868687, 0.66129}, {0.99495, 0.715054}}</string>
+				<key>HD_ImageSize</key>
+				<string>{396, 372}</string>
+				<key>Image</key>
+				<string>meta_data.png</string>
+				<key>Image-HD</key>
+				<string>meta_data-hd.png</string>
+				<key>ImageURL</key>
+				<string>/Users/yuncholho/work/sip324/EyeBall/code/EyeFall/EyeFall_LH/Resources/game/map/meta_data.png</string>
+				<key>ImageURL-HD</key>
+				<string>/Users/yuncholho/work/sip324/EyeBall/code/EyeFall/EyeFall_LH/Resources/game/map/meta_data-hd.png</string>
+				<key>Name</key>
+				<string>acid1</string>
+				<key>Opacity</key>
+				<real>1</real>
+				<key>SD_ImageSize</key>
+				<string>{198, 186}</string>
+				<key>Scale</key>
+				<string>{1, 1}</string>
+				<key>ZOrder</key>
+				<integer>0</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>PhysicProperties</key>
+			<dict>
+				<key>AngularDamping</key>
+				<real>0.0</real>
+				<key>AngularVelocity</key>
+				<real>0.0</real>
+				<key>CanSleep</key>
+				<true/>
+				<key>Category</key>
+				<integer>1</integer>
+				<key>Density</key>
+				<real>0.20000000298023224</real>
+				<key>Fixtures</key>
+				<array/>
+				<key>Friction</key>
+				<real>0.20000000298023224</real>
+				<key>Group</key>
+				<integer>0</integer>
+				<key>IsBullet</key>
+				<false/>
+				<key>IsCircle</key>
+				<false/>
+				<key>IsFixedRot</key>
+				<false/>
+				<key>IsSensor</key>
+				<false/>
+				<key>LinearDamping</key>
+				<real>0.0</real>
+				<key>LinearVelocityX</key>
+				<real>0.0</real>
+				<key>LinearVelocityY</key>
+				<real>0.0</real>
+				<key>Mask</key>
+				<integer>65535</integer>
+				<key>PhysicType</key>
+				<integer>0</integer>
+				<key>Restitution</key>
+				<real>0.20000000298023224</real>
+				<key>SHHolesPoints</key>
+				<array/>
+				<key>SHShapePoints</key>
+				<array/>
+				<key>ShapeBorderH</key>
+				<integer>0</integer>
+				<key>ShapeBorderW</key>
+				<integer>0</integer>
+				<key>ShapePositionOffsetX</key>
+				<integer>0</integer>
+				<key>ShapePositionOffsetY</key>
+				<integer>0</integer>
+			</dict>
+			<key>TextureProperties</key>
+			<dict>
+				<key>Color</key>
+				<string>{{1, 1}, {1, 0}}</string>
+				<key>Frame</key>
+				<string>{{129, 123}, {40, 10}}</string>
+				<key>Frame-HD</key>
+				<string>{{258, 246}, {80, 20}}</string>
+				<key>FrameUV</key>
+				<string>{{0.651515, 0.66129}, {0.853535, 0.715054}}</string>
+				<key>HD_ImageSize</key>
+				<string>{396, 372}</string>
+				<key>Image</key>
+				<string>meta_data.png</string>
+				<key>Image-HD</key>
+				<string>meta_data-hd.png</string>
+				<key>ImageURL</key>
+				<string>/Users/yuncholho/work/sip324/EyeBall/code/EyeFall/EyeFall_LH/Resources/game/map/meta_data.png</string>
+				<key>ImageURL-HD</key>
+				<string>/Users/yuncholho/work/sip324/EyeBall/code/EyeFall/EyeFall_LH/Resources/game/map/meta_data-hd.png</string>
+				<key>Name</key>
+				<string>steel2</string>
+				<key>Opacity</key>
+				<real>1</real>
+				<key>SD_ImageSize</key>
+				<string>{198, 186}</string>
+				<key>Scale</key>
+				<string>{1, 1}</string>
+				<key>ZOrder</key>
+				<integer>0</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>PhysicProperties</key>
+			<dict>
+				<key>AngularDamping</key>
+				<real>0.0</real>
+				<key>AngularVelocity</key>
+				<real>0.0</real>
+				<key>CanSleep</key>
+				<true/>
+				<key>Category</key>
+				<integer>1</integer>
+				<key>Density</key>
+				<real>0.20000000298023224</real>
+				<key>Fixtures</key>
+				<array/>
+				<key>Friction</key>
+				<real>0.20000000298023224</real>
+				<key>Group</key>
+				<integer>0</integer>
+				<key>IsBullet</key>
+				<false/>
+				<key>IsCircle</key>
+				<false/>
+				<key>IsFixedRot</key>
+				<false/>
+				<key>IsSensor</key>
+				<false/>
+				<key>LinearDamping</key>
+				<real>0.0</real>
+				<key>LinearVelocityX</key>
+				<real>0.0</real>
+				<key>LinearVelocityY</key>
+				<real>0.0</real>
+				<key>Mask</key>
+				<integer>65535</integer>
+				<key>PhysicType</key>
+				<integer>0</integer>
+				<key>Restitution</key>
+				<real>0.20000000298023224</real>
+				<key>SHHolesPoints</key>
+				<array/>
+				<key>SHShapePoints</key>
+				<array/>
+				<key>ShapeBorderH</key>
+				<integer>0</integer>
+				<key>ShapeBorderW</key>
+				<integer>0</integer>
+				<key>ShapePositionOffsetX</key>
+				<integer>0</integer>
+				<key>ShapePositionOffsetY</key>
+				<integer>0</integer>
+			</dict>
+			<key>TextureProperties</key>
+			<dict>
+				<key>Color</key>
+				<string>{{1, 1}, {1, 0}}</string>
+				<key>Frame</key>
+				<string>{{119, 123}, {8, 60}}</string>
+				<key>Frame-HD</key>
+				<string>{{238, 246}, {16, 120}}</string>
+				<key>FrameUV</key>
+				<string>{{0.60101, 0.66129}, {0.641414, 0.983871}}</string>
+				<key>HD_ImageSize</key>
+				<string>{396, 372}</string>
+				<key>Image</key>
+				<string>meta_data.png</string>
+				<key>Image-HD</key>
+				<string>meta_data-hd.png</string>
+				<key>ImageURL</key>
+				<string>/Users/yuncholho/work/sip324/EyeBall/code/EyeFall/EyeFall_LH/Resources/game/map/meta_data.png</string>
+				<key>ImageURL-HD</key>
+				<string>/Users/yuncholho/work/sip324/EyeBall/code/EyeFall/EyeFall_LH/Resources/game/map/meta_data-hd.png</string>
+				<key>Name</key>
+				<string>wood6</string>
+				<key>Opacity</key>
+				<real>1</real>
+				<key>SD_ImageSize</key>
+				<string>{198, 186}</string>
+				<key>Scale</key>
+				<string>{1, 1}</string>
+				<key>ZOrder</key>
+				<integer>0</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>PhysicProperties</key>
+			<dict>
+				<key>AngularDamping</key>
+				<real>0.0</real>
+				<key>AngularVelocity</key>
+				<real>0.0</real>
+				<key>CanSleep</key>
+				<true/>
+				<key>Category</key>
+				<integer>1</integer>
+				<key>Density</key>
+				<real>0.20000000298023224</real>
+				<key>Fixtures</key>
+				<array/>
+				<key>Friction</key>
+				<real>0.20000000298023224</real>
+				<key>Group</key>
+				<integer>0</integer>
+				<key>IsBullet</key>
+				<false/>
+				<key>IsCircle</key>
+				<false/>
+				<key>IsFixedRot</key>
+				<false/>
+				<key>IsSensor</key>
+				<false/>
+				<key>LinearDamping</key>
+				<real>0.0</real>
+				<key>LinearVelocityX</key>
+				<real>0.0</real>
+				<key>LinearVelocityY</key>
+				<real>0.0</real>
+				<key>Mask</key>
+				<integer>65535</integer>
+				<key>PhysicType</key>
+				<integer>0</integer>
+				<key>Restitution</key>
+				<real>0.20000000298023224</real>
+				<key>SHHolesPoints</key>
+				<array/>
+				<key>SHShapePoints</key>
+				<array/>
+				<key>ShapeBorderH</key>
+				<integer>0</integer>
+				<key>ShapeBorderW</key>
+				<integer>0</integer>
+				<key>ShapePositionOffsetX</key>
+				<integer>0</integer>
+				<key>ShapePositionOffsetY</key>
+				<integer>0</integer>
+			</dict>
+			<key>TextureProperties</key>
+			<dict>
+				<key>Color</key>
+				<string>{{1, 1}, {1, 0}}</string>
+				<key>Frame</key>
+				<string>{{56, 123}, {60, 10}}</string>
+				<key>Frame-HD</key>
+				<string>{{112, 246}, {120, 20}}</string>
+				<key>FrameUV</key>
+				<string>{{0.282828, 0.66129}, {0.585859, 0.715054}}</string>
+				<key>HD_ImageSize</key>
+				<string>{396, 372}</string>
+				<key>Image</key>
+				<string>meta_data.png</string>
+				<key>Image-HD</key>
+				<string>meta_data-hd.png</string>
+				<key>ImageURL</key>
+				<string>/Users/yuncholho/work/sip324/EyeBall/code/EyeFall/EyeFall_LH/Resources/game/map/meta_data.png</string>
+				<key>ImageURL-HD</key>
+				<string>/Users/yuncholho/work/sip324/EyeBall/code/EyeFall/EyeFall_LH/Resources/game/map/meta_data-hd.png</string>
+				<key>Name</key>
+				<string>acid3</string>
+				<key>Opacity</key>
+				<real>1</real>
+				<key>SD_ImageSize</key>
+				<string>{198, 186}</string>
+				<key>Scale</key>
+				<string>{1, 1}</string>
+				<key>ZOrder</key>
+				<integer>0</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>PhysicProperties</key>
+			<dict>
+				<key>AngularDamping</key>
+				<real>0.0</real>
+				<key>AngularVelocity</key>
+				<real>0.0</real>
+				<key>CanSleep</key>
+				<true/>
+				<key>Category</key>
+				<integer>1</integer>
+				<key>Density</key>
+				<real>0.20000000298023224</real>
+				<key>Fixtures</key>
+				<array/>
+				<key>Friction</key>
+				<real>0.20000000298023224</real>
+				<key>Group</key>
+				<integer>0</integer>
+				<key>IsBullet</key>
+				<false/>
+				<key>IsCircle</key>
+				<false/>
+				<key>IsFixedRot</key>
+				<false/>
+				<key>IsSensor</key>
+				<false/>
+				<key>LinearDamping</key>
+				<real>0.0</real>
+				<key>LinearVelocityX</key>
+				<real>0.0</real>
+				<key>LinearVelocityY</key>
+				<real>0.0</real>
+				<key>Mask</key>
+				<integer>65535</integer>
+				<key>PhysicType</key>
+				<integer>0</integer>
+				<key>Restitution</key>
+				<real>0.20000000298023224</real>
+				<key>SHHolesPoints</key>
+				<array/>
+				<key>SHShapePoints</key>
+				<array/>
+				<key>ShapeBorderH</key>
+				<integer>0</integer>
+				<key>ShapeBorderW</key>
+				<integer>0</integer>
+				<key>ShapePositionOffsetX</key>
+				<integer>0</integer>
+				<key>ShapePositionOffsetY</key>
+				<integer>0</integer>
+			</dict>
+			<key>TextureProperties</key>
+			<dict>
+				<key>Color</key>
+				<string>{{1, 1}, {1, 0}}</string>
+				<key>Frame</key>
+				<string>{{56, 113}, {100, 8}}</string>
+				<key>Frame-HD</key>
+				<string>{{112, 226}, {200, 16}}</string>
+				<key>FrameUV</key>
+				<string>{{0.282828, 0.607527}, {0.787879, 0.650538}}</string>
+				<key>HD_ImageSize</key>
+				<string>{396, 372}</string>
+				<key>Image</key>
+				<string>meta_data.png</string>
+				<key>Image-HD</key>
+				<string>meta_data-hd.png</string>
+				<key>ImageURL</key>
+				<string>/Users/yuncholho/work/sip324/EyeBall/code/EyeFall/EyeFall_LH/Resources/game/map/meta_data.png</string>
+				<key>ImageURL-HD</key>
+				<string>/Users/yuncholho/work/sip324/EyeBall/code/EyeFall/EyeFall_LH/Resources/game/map/meta_data-hd.png</string>
+				<key>Name</key>
+				<string>wood7</string>
+				<key>Opacity</key>
+				<real>1</real>
+				<key>SD_ImageSize</key>
+				<string>{198, 186}</string>
+				<key>Scale</key>
+				<string>{1, 1}</string>
+				<key>ZOrder</key>
+				<integer>0</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>PhysicProperties</key>
+			<dict>
+				<key>AngularDamping</key>
+				<real>0.0</real>
+				<key>AngularVelocity</key>
+				<real>0.0</real>
+				<key>CanSleep</key>
+				<true/>
+				<key>Category</key>
+				<integer>1</integer>
+				<key>Density</key>
+				<real>0.20000000298023224</real>
+				<key>Fixtures</key>
+				<array>
+					<array>
+						<string>{3.52502, -17.3498}</string>
+						<string>{3.93947, 16.2212}</string>
+						<string>{-3.93521, 16.2212}</string>
+						<string>{-3.93521, -17.3498}</string>
+					</array>
+				</array>
+				<key>Friction</key>
+				<real>0.20000000298023224</real>
+				<key>Group</key>
+				<integer>0</integer>
+				<key>IsBullet</key>
+				<false/>
+				<key>IsCircle</key>
+				<false/>
+				<key>IsFixedRot</key>
+				<false/>
+				<key>IsSensor</key>
+				<false/>
+				<key>LinearDamping</key>
+				<real>0.0</real>
+				<key>LinearVelocityX</key>
+				<real>0.0</real>
+				<key>LinearVelocityY</key>
+				<real>0.0</real>
+				<key>Mask</key>
+				<integer>65535</integer>
+				<key>PhysicType</key>
+				<integer>0</integer>
+				<key>Restitution</key>
+				<real>0.20000000298023224</real>
+				<key>SHHolesPoints</key>
+				<array/>
+				<key>SHShapePoints</key>
+				<array>
+					<string>{67.6296, 227.058}</string>
+					<string>{67.6296, 294.2}</string>
+					<string>{82.55, 294.2}</string>
+					<string>{83.3789, 227.058}</string>
+					<string>{67.6296, 227.058}</string>
+				</array>
+				<key>ShapeBorderH</key>
+				<integer>0</integer>
+				<key>ShapeBorderW</key>
+				<integer>0</integer>
+				<key>ShapePositionOffsetX</key>
+				<integer>0</integer>
+				<key>ShapePositionOffsetY</key>
+				<integer>0</integer>
+			</dict>
+			<key>TextureProperties</key>
+			<dict>
+				<key>Color</key>
+				<string>{{1, 1}, {1, 0}}</string>
+				<key>Frame</key>
+				<string>{{27, 112}, {21.5, 35.5}}</string>
+				<key>Frame-HD</key>
+				<string>{{54, 224}, {43, 71}}</string>
+				<key>FrameUV</key>
+				<string>{{0.136364, 0.602151}, {0.244949, 0.793011}}</string>
+				<key>HD_ImageSize</key>
+				<string>{396, 372}</string>
+				<key>Image</key>
+				<string>meta_data.png</string>
+				<key>Image-HD</key>
+				<string>meta_data-hd.png</string>
+				<key>ImageURL</key>
+				<string>/Users/yuncholho/work/sip324/EyeBall/code/EyeFall/EyeFall_LH/Resources/game/map/meta_data.png</string>
+				<key>ImageURL-HD</key>
+				<string>/Users/yuncholho/work/sip324/EyeBall/code/EyeFall/EyeFall_LH/Resources/game/map/meta_data-hd.png</string>
+				<key>Name</key>
+				<string>fire_wood3</string>
+				<key>Opacity</key>
+				<real>1</real>
+				<key>SD_ImageSize</key>
+				<string>{198, 186}</string>
+				<key>Scale</key>
+				<string>{1, 1}</string>
+				<key>ZOrder</key>
+				<integer>0</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>PhysicProperties</key>
+			<dict>
+				<key>AngularDamping</key>
+				<real>0.0</real>
+				<key>AngularVelocity</key>
+				<real>0.0</real>
+				<key>CanSleep</key>
+				<true/>
+				<key>Category</key>
+				<integer>1</integer>
+				<key>Density</key>
+				<real>0.20000000298023224</real>
+				<key>Fixtures</key>
+				<array>
+					<array>
+						<string>{-3.75036, -30.0092}</string>
+						<string>{4.27829, -29.7798}</string>
+						<string>{4.27829, 29.6322}</string>
+						<string>{-3.75036, 29.4029}</string>
+					</array>
+				</array>
+				<key>Friction</key>
+				<real>0.20000000298023224</real>
+				<key>Group</key>
+				<integer>0</integer>
+				<key>IsBullet</key>
+				<false/>
+				<key>IsCircle</key>
+				<false/>
+				<key>IsFixedRot</key>
+				<false/>
+				<key>IsSensor</key>
+				<false/>
+				<key>LinearDamping</key>
+				<real>0.0</real>
+				<key>LinearVelocityX</key>
+				<real>0.0</real>
+				<key>LinearVelocityY</key>
+				<real>0.0</real>
+				<key>Mask</key>
+				<integer>65535</integer>
+				<key>PhysicType</key>
+				<integer>0</integer>
+				<key>Restitution</key>
+				<real>0.20000000298023224</real>
+				<key>SHHolesPoints</key>
+				<array/>
+				<key>SHShapePoints</key>
+				<array>
+					<string>{16.9993, 225.694}</string>
+					<string>{33.0566, 225.236}</string>
+					<string>{33.0566, 344.06}</string>
+					<string>{16.9993, 344.518}</string>
+					<string>{16.9993, 226.153}</string>
+				</array>
+				<key>ShapeBorderH</key>
+				<integer>0</integer>
+				<key>ShapeBorderW</key>
+				<integer>0</integer>
+				<key>ShapePositionOffsetX</key>
+				<integer>0</integer>
+				<key>ShapePositionOffsetY</key>
+				<integer>0</integer>
+			</dict>
+			<key>TextureProperties</key>
+			<dict>
+				<key>Color</key>
+				<string>{{1, 1}, {1, 0}}</string>
+				<key>Frame</key>
+				<string>{{0, 112}, {24.5, 60.5}}</string>
+				<key>Frame-HD</key>
+				<string>{{0, 224}, {49, 121}}</string>
+				<key>FrameUV</key>
+				<string>{{0, 0.602151}, {0.123737, 0.927419}}</string>
+				<key>HD_ImageSize</key>
+				<string>{396, 372}</string>
+				<key>Image</key>
+				<string>meta_data.png</string>
+				<key>Image-HD</key>
+				<string>meta_data-hd.png</string>
+				<key>ImageURL</key>
+				<string>/Users/yuncholho/work/sip324/EyeBall/code/EyeFall/EyeFall_LH/Resources/game/map/meta_data.png</string>
+				<key>ImageURL-HD</key>
+				<string>/Users/yuncholho/work/sip324/EyeBall/code/EyeFall/EyeFall_LH/Resources/game/map/meta_data-hd.png</string>
+				<key>Name</key>
+				<string>fire_wood4</string>
+				<key>Opacity</key>
+				<real>1</real>
+				<key>SD_ImageSize</key>
+				<string>{198, 186}</string>
+				<key>Scale</key>
+				<string>{1, 1}</string>
+				<key>ZOrder</key>
+				<integer>0</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>PhysicProperties</key>
+			<dict>
+				<key>AngularDamping</key>
+				<real>0.0</real>
+				<key>AngularVelocity</key>
+				<real>0.0</real>
+				<key>CanSleep</key>
+				<true/>
+				<key>Category</key>
+				<integer>1</integer>
+				<key>Density</key>
+				<real>0.20000000298023224</real>
+				<key>Fixtures</key>
+				<array/>
+				<key>Friction</key>
+				<real>0.20000000298023224</real>
+				<key>Group</key>
+				<integer>0</integer>
+				<key>IsBullet</key>
+				<false/>
+				<key>IsCircle</key>
+				<false/>
+				<key>IsFixedRot</key>
+				<false/>
+				<key>IsSensor</key>
+				<false/>
+				<key>LinearDamping</key>
+				<real>0.0</real>
+				<key>LinearVelocityX</key>
+				<real>0.0</real>
+				<key>LinearVelocityY</key>
+				<real>0.0</real>
+				<key>Mask</key>
+				<integer>65535</integer>
+				<key>PhysicType</key>
+				<integer>0</integer>
+				<key>Restitution</key>
+				<real>0.20000000298023224</real>
+				<key>SHHolesPoints</key>
+				<array/>
+				<key>SHShapePoints</key>
+				<array/>
+				<key>ShapeBorderH</key>
+				<integer>0</integer>
+				<key>ShapeBorderW</key>
+				<integer>0</integer>
+				<key>ShapePositionOffsetX</key>
+				<integer>0</integer>
+				<key>ShapePositionOffsetY</key>
+				<integer>0</integer>
+			</dict>
+			<key>TextureProperties</key>
+			<dict>
+				<key>Color</key>
+				<string>{{1, 1}, {1, 0}}</string>
+				<key>Frame</key>
+				<string>{{159, 100}, {25, 10}}</string>
+				<key>Frame-HD</key>
+				<string>{{318, 200}, {50, 20}}</string>
+				<key>FrameUV</key>
+				<string>{{0.80303, 0.537634}, {0.929293, 0.591398}}</string>
+				<key>HD_ImageSize</key>
+				<string>{396, 372}</string>
+				<key>Image</key>
+				<string>meta_data.png</string>
+				<key>Image-HD</key>
+				<string>meta_data-hd.png</string>
+				<key>ImageURL</key>
+				<string>/Users/yuncholho/work/sip324/EyeBall/code/EyeFall/EyeFall_LH/Resources/game/map/meta_data.png</string>
+				<key>ImageURL-HD</key>
+				<string>/Users/yuncholho/work/sip324/EyeBall/code/EyeFall/EyeFall_LH/Resources/game/map/meta_data-hd.png</string>
+				<key>Name</key>
+				<string>gold1</string>
+				<key>Opacity</key>
+				<real>1</real>
+				<key>SD_ImageSize</key>
+				<string>{198, 186}</string>
+				<key>Scale</key>
+				<string>{1, 1}</string>
+				<key>ZOrder</key>
+				<integer>0</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>PhysicProperties</key>
+			<dict>
+				<key>AngularDamping</key>
+				<real>0.0</real>
+				<key>AngularVelocity</key>
+				<real>0.0</real>
+				<key>CanSleep</key>
+				<true/>
+				<key>Category</key>
+				<integer>1</integer>
+				<key>Density</key>
+				<real>0.20000000298023224</real>
+				<key>Fixtures</key>
+				<array/>
+				<key>Friction</key>
+				<real>0.20000000298023224</real>
+				<key>Group</key>
+				<integer>0</integer>
+				<key>IsBullet</key>
+				<false/>
+				<key>IsCircle</key>
+				<false/>
+				<key>IsFixedRot</key>
+				<false/>
+				<key>IsSensor</key>
+				<false/>
+				<key>LinearDamping</key>
+				<real>0.0</real>
+				<key>LinearVelocityX</key>
+				<real>0.0</real>
+				<key>LinearVelocityY</key>
+				<real>0.0</real>
+				<key>Mask</key>
+				<integer>65535</integer>
+				<key>PhysicType</key>
+				<integer>0</integer>
+				<key>Restitution</key>
+				<real>0.20000000298023224</real>
+				<key>SHHolesPoints</key>
+				<array/>
+				<key>SHShapePoints</key>
+				<array/>
+				<key>ShapeBorderH</key>
+				<integer>0</integer>
+				<key>ShapeBorderW</key>
+				<integer>0</integer>
+				<key>ShapePositionOffsetX</key>
+				<integer>0</integer>
+				<key>ShapePositionOffsetY</key>
+				<integer>0</integer>
+			</dict>
+			<key>TextureProperties</key>
+			<dict>
+				<key>Color</key>
+				<string>{{1, 1}, {1, 0}}</string>
+				<key>Frame</key>
+				<string>{{56, 100}, {100, 10}}</string>
+				<key>Frame-HD</key>
+				<string>{{112, 200}, {200, 20}}</string>
+				<key>FrameUV</key>
+				<string>{{0.282828, 0.537634}, {0.787879, 0.591398}}</string>
+				<key>HD_ImageSize</key>
+				<string>{396, 372}</string>
+				<key>Image</key>
+				<string>meta_data.png</string>
+				<key>Image-HD</key>
+				<string>meta_data-hd.png</string>
+				<key>ImageURL</key>
+				<string>/Users/yuncholho/work/sip324/EyeBall/code/EyeFall/EyeFall_LH/Resources/game/map/meta_data.png</string>
+				<key>ImageURL-HD</key>
+				<string>/Users/yuncholho/work/sip324/EyeBall/code/EyeFall/EyeFall_LH/Resources/game/map/meta_data-hd.png</string>
+				<key>Name</key>
+				<string>ice4</string>
+				<key>Opacity</key>
+				<real>1</real>
+				<key>SD_ImageSize</key>
+				<string>{198, 186}</string>
+				<key>Scale</key>
+				<string>{1, 1}</string>
+				<key>ZOrder</key>
+				<integer>0</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>PhysicProperties</key>
+			<dict>
+				<key>AngularDamping</key>
+				<real>0.0</real>
+				<key>AngularVelocity</key>
+				<real>0.0</real>
+				<key>CanSleep</key>
+				<true/>
+				<key>Category</key>
+				<integer>1</integer>
+				<key>Density</key>
+				<real>0.20000000298023224</real>
+				<key>Fixtures</key>
+				<array/>
+				<key>Friction</key>
+				<real>0.20000000298023224</real>
+				<key>Group</key>
+				<integer>0</integer>
+				<key>IsBullet</key>
+				<false/>
+				<key>IsCircle</key>
+				<false/>
+				<key>IsFixedRot</key>
+				<false/>
+				<key>IsSensor</key>
+				<false/>
+				<key>LinearDamping</key>
+				<real>0.0</real>
+				<key>LinearVelocityX</key>
+				<real>0.0</real>
+				<key>LinearVelocityY</key>
+				<real>0.0</real>
+				<key>Mask</key>
+				<integer>65535</integer>
+				<key>PhysicType</key>
+				<integer>0</integer>
+				<key>Restitution</key>
+				<real>0.20000000298023224</real>
+				<key>SHHolesPoints</key>
+				<array/>
+				<key>SHShapePoints</key>
+				<array/>
+				<key>ShapeBorderH</key>
+				<integer>0</integer>
+				<key>ShapeBorderW</key>
+				<integer>0</integer>
+				<key>ShapePositionOffsetX</key>
+				<integer>0</integer>
+				<key>ShapePositionOffsetY</key>
+				<integer>0</integer>
+			</dict>
+			<key>TextureProperties</key>
+			<dict>
+				<key>Color</key>
+				<string>{{1, 1}, {1, 0}}</string>
+				<key>Frame</key>
+				<string>{{159, 88}, {25, 10}}</string>
+				<key>Frame-HD</key>
+				<string>{{318, 176}, {50, 20}}</string>
+				<key>FrameUV</key>
+				<string>{{0.80303, 0.473118}, {0.929293, 0.526882}}</string>
+				<key>HD_ImageSize</key>
+				<string>{396, 372}</string>
+				<key>Image</key>
+				<string>meta_data.png</string>
+				<key>Image-HD</key>
+				<string>meta_data-hd.png</string>
+				<key>ImageURL</key>
+				<string>/Users/yuncholho/work/sip324/EyeBall/code/EyeFall/EyeFall_LH/Resources/game/map/meta_data.png</string>
+				<key>ImageURL-HD</key>
+				<string>/Users/yuncholho/work/sip324/EyeBall/code/EyeFall/EyeFall_LH/Resources/game/map/meta_data-hd.png</string>
+				<key>Name</key>
+				<string>steel1</string>
+				<key>Opacity</key>
+				<real>1</real>
+				<key>SD_ImageSize</key>
+				<string>{198, 186}</string>
+				<key>Scale</key>
+				<string>{1, 1}</string>
+				<key>ZOrder</key>
+				<integer>0</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>PhysicProperties</key>
+			<dict>
+				<key>AngularDamping</key>
+				<real>0.0</real>
+				<key>AngularVelocity</key>
+				<real>0.0</real>
+				<key>CanSleep</key>
+				<true/>
+				<key>Category</key>
+				<integer>1</integer>
+				<key>Density</key>
+				<real>0.20000000298023224</real>
+				<key>Fixtures</key>
+				<array/>
+				<key>Friction</key>
+				<real>0.20000000298023224</real>
+				<key>Group</key>
+				<integer>0</integer>
+				<key>IsBullet</key>
+				<false/>
+				<key>IsCircle</key>
+				<false/>
+				<key>IsFixedRot</key>
+				<false/>
+				<key>IsSensor</key>
+				<false/>
+				<key>LinearDamping</key>
+				<real>0.0</real>
+				<key>LinearVelocityX</key>
+				<real>0.0</real>
+				<key>LinearVelocityY</key>
+				<real>0.0</real>
+				<key>Mask</key>
+				<integer>65535</integer>
+				<key>PhysicType</key>
+				<integer>0</integer>
+				<key>Restitution</key>
+				<real>0.20000000298023224</real>
+				<key>SHHolesPoints</key>
+				<array/>
+				<key>SHShapePoints</key>
+				<array/>
+				<key>ShapeBorderH</key>
+				<integer>0</integer>
+				<key>ShapeBorderW</key>
+				<integer>0</integer>
+				<key>ShapePositionOffsetX</key>
+				<integer>0</integer>
+				<key>ShapePositionOffsetY</key>
+				<integer>0</integer>
+			</dict>
+			<key>TextureProperties</key>
+			<dict>
+				<key>Color</key>
+				<string>{{1, 1}, {1, 0}}</string>
+				<key>Frame</key>
+				<string>{{56, 88}, {100, 10}}</string>
+				<key>Frame-HD</key>
+				<string>{{112, 176}, {200, 20}}</string>
+				<key>FrameUV</key>
+				<string>{{0.282828, 0.473118}, {0.787879, 0.526882}}</string>
+				<key>HD_ImageSize</key>
+				<string>{396, 372}</string>
+				<key>Image</key>
+				<string>meta_data.png</string>
+				<key>Image-HD</key>
+				<string>meta_data-hd.png</string>
+				<key>ImageURL</key>
+				<string>/Users/yuncholho/work/sip324/EyeBall/code/EyeFall/EyeFall_LH/Resources/game/map/meta_data.png</string>
+				<key>ImageURL-HD</key>
+				<string>/Users/yuncholho/work/sip324/EyeBall/code/EyeFall/EyeFall_LH/Resources/game/map/meta_data-hd.png</string>
+				<key>Name</key>
+				<string>gold4</string>
+				<key>Opacity</key>
+				<real>1</real>
+				<key>SD_ImageSize</key>
+				<string>{198, 186}</string>
+				<key>Scale</key>
+				<string>{1, 1}</string>
+				<key>ZOrder</key>
+				<integer>0</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>PhysicProperties</key>
+			<dict>
+				<key>AngularDamping</key>
+				<real>0.0</real>
+				<key>AngularVelocity</key>
+				<real>0.0</real>
+				<key>CanSleep</key>
+				<true/>
+				<key>Category</key>
+				<integer>1</integer>
+				<key>Density</key>
+				<real>0.20000000298023224</real>
+				<key>Fixtures</key>
+				<array/>
+				<key>Friction</key>
+				<real>0.20000000298023224</real>
+				<key>Group</key>
+				<integer>0</integer>
+				<key>IsBullet</key>
+				<false/>
+				<key>IsCircle</key>
+				<false/>
+				<key>IsFixedRot</key>
+				<false/>
+				<key>IsSensor</key>
+				<false/>
+				<key>LinearDamping</key>
+				<real>0.0</real>
+				<key>LinearVelocityX</key>
+				<real>0.0</real>
+				<key>LinearVelocityY</key>
+				<real>0.0</real>
+				<key>Mask</key>
+				<integer>65535</integer>
+				<key>PhysicType</key>
+				<integer>0</integer>
+				<key>Restitution</key>
+				<real>0.20000000298023224</real>
+				<key>SHHolesPoints</key>
+				<array/>
+				<key>SHShapePoints</key>
+				<array/>
+				<key>ShapeBorderH</key>
+				<integer>0</integer>
+				<key>ShapeBorderW</key>
+				<integer>0</integer>
+				<key>ShapePositionOffsetX</key>
+				<integer>0</integer>
+				<key>ShapePositionOffsetY</key>
+				<integer>0</integer>
+			</dict>
+			<key>TextureProperties</key>
+			<dict>
+				<key>Color</key>
+				<string>{{1, 1}, {1, 0}}</string>
+				<key>Frame</key>
+				<string>{{159, 75}, {25, 10}}</string>
+				<key>Frame-HD</key>
+				<string>{{318, 150}, {50, 20}}</string>
+				<key>FrameUV</key>
+				<string>{{0.80303, 0.403226}, {0.929293, 0.456989}}</string>
+				<key>HD_ImageSize</key>
+				<string>{396, 372}</string>
+				<key>Image</key>
+				<string>meta_data.png</string>
+				<key>Image-HD</key>
+				<string>meta_data-hd.png</string>
+				<key>ImageURL</key>
+				<string>/Users/yuncholho/work/sip324/EyeBall/code/EyeFall/EyeFall_LH/Resources/game/map/meta_data.png</string>
+				<key>ImageURL-HD</key>
+				<string>/Users/yuncholho/work/sip324/EyeBall/code/EyeFall/EyeFall_LH/Resources/game/map/meta_data-hd.png</string>
+				<key>Name</key>
+				<string>ice1</string>
+				<key>Opacity</key>
+				<real>1</real>
+				<key>SD_ImageSize</key>
+				<string>{198, 186}</string>
+				<key>Scale</key>
+				<string>{1, 1}</string>
+				<key>ZOrder</key>
+				<integer>0</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>PhysicProperties</key>
+			<dict>
+				<key>AngularDamping</key>
+				<real>0.0</real>
+				<key>AngularVelocity</key>
+				<real>0.0</real>
+				<key>CanSleep</key>
+				<true/>
+				<key>Category</key>
+				<integer>1</integer>
+				<key>Density</key>
+				<real>0.20000000298023224</real>
+				<key>Fixtures</key>
+				<array/>
+				<key>Friction</key>
+				<real>0.20000000298023224</real>
+				<key>Group</key>
+				<integer>0</integer>
+				<key>IsBullet</key>
+				<false/>
+				<key>IsCircle</key>
+				<false/>
+				<key>IsFixedRot</key>
+				<false/>
+				<key>IsSensor</key>
+				<false/>
+				<key>LinearDamping</key>
+				<real>0.0</real>
+				<key>LinearVelocityX</key>
+				<real>0.0</real>
+				<key>LinearVelocityY</key>
+				<real>0.0</real>
+				<key>Mask</key>
+				<integer>65535</integer>
+				<key>PhysicType</key>
+				<integer>0</integer>
+				<key>Restitution</key>
+				<real>0.20000000298023224</real>
+				<key>SHHolesPoints</key>
+				<array/>
+				<key>SHShapePoints</key>
+				<array/>
+				<key>ShapeBorderH</key>
+				<integer>0</integer>
+				<key>ShapeBorderW</key>
+				<integer>0</integer>
+				<key>ShapePositionOffsetX</key>
+				<integer>0</integer>
+				<key>ShapePositionOffsetY</key>
+				<integer>0</integer>
+			</dict>
+			<key>TextureProperties</key>
+			<dict>
+				<key>Color</key>
+				<string>{{1, 1}, {1, 0}}</string>
+				<key>Frame</key>
+				<string>{{56, 75}, {100, 10}}</string>
+				<key>Frame-HD</key>
+				<string>{{112, 150}, {200, 20}}</string>
+				<key>FrameUV</key>
+				<string>{{0.282828, 0.403226}, {0.787879, 0.456989}}</string>
+				<key>HD_ImageSize</key>
+				<string>{396, 372}</string>
+				<key>Image</key>
+				<string>meta_data.png</string>
+				<key>Image-HD</key>
+				<string>meta_data-hd.png</string>
+				<key>ImageURL</key>
+				<string>/Users/yuncholho/work/sip324/EyeBall/code/EyeFall/EyeFall_LH/Resources/game/map/meta_data.png</string>
+				<key>ImageURL-HD</key>
+				<string>/Users/yuncholho/work/sip324/EyeBall/code/EyeFall/EyeFall_LH/Resources/game/map/meta_data-hd.png</string>
+				<key>Name</key>
+				<string>acid4</string>
+				<key>Opacity</key>
+				<real>1</real>
+				<key>SD_ImageSize</key>
+				<string>{198, 186}</string>
+				<key>Scale</key>
+				<string>{1, 1}</string>
+				<key>ZOrder</key>
+				<integer>0</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>PhysicProperties</key>
+			<dict>
+				<key>AngularDamping</key>
+				<real>0.0</real>
+				<key>AngularVelocity</key>
+				<real>0.0</real>
+				<key>CanSleep</key>
+				<true/>
+				<key>Category</key>
+				<integer>1</integer>
+				<key>Density</key>
+				<real>0.20000000298023224</real>
+				<key>Fixtures</key>
+				<array>
+					<array>
+						<string>{25.2368, -4.22824}</string>
+						<string>{25.2368, 3.23198}</string>
+						<string>{-24.0836, 3.23198}</string>
+						<string>{-23.2547, -4.22824}</string>
+					</array>
+				</array>
+				<key>Friction</key>
+				<real>0.20000000298023224</real>
+				<key>Group</key>
+				<integer>0</integer>
+				<key>IsBullet</key>
+				<false/>
+				<key>IsCircle</key>
+				<false/>
+				<key>IsFixedRot</key>
+				<false/>
+				<key>IsSensor</key>
+				<false/>
+				<key>LinearDamping</key>
+				<real>0.0</real>
+				<key>LinearVelocityX</key>
+				<real>0.0</real>
+				<key>LinearVelocityY</key>
+				<real>0.0</real>
+				<key>Mask</key>
+				<integer>65535</integer>
+				<key>PhysicType</key>
+				<integer>0</integer>
+				<key>Restitution</key>
+				<real>0.20000000298023224</real>
+				<key>SHHolesPoints</key>
+				<array/>
+				<key>SHShapePoints</key>
+				<array>
+					<string>{248.333, 106.036}</string>
+					<string>{249.991, 120.956}</string>
+					<string>{346.974, 120.956}</string>
+					<string>{346.974, 106.036}</string>
+					<string>{248.333, 106.036}</string>
+				</array>
+				<key>ShapeBorderH</key>
+				<integer>0</integer>
+				<key>ShapeBorderW</key>
+				<integer>0</integer>
+				<key>ShapePositionOffsetX</key>
+				<integer>0</integer>
+				<key>ShapePositionOffsetY</key>
+				<integer>0</integer>
+			</dict>
+			<key>TextureProperties</key>
+			<dict>
+				<key>Color</key>
+				<string>{{1, 1}, {1, 0}}</string>
+				<key>Frame</key>
+				<string>{{123, 45}, {50.5, 22.5}}</string>
+				<key>Frame-HD</key>
+				<string>{{246, 90}, {101, 45}}</string>
+				<key>FrameUV</key>
+				<string>{{0.621212, 0.241935}, {0.876263, 0.362903}}</string>
+				<key>HD_ImageSize</key>
+				<string>{396, 372}</string>
+				<key>Image</key>
+				<string>meta_data.png</string>
+				<key>Image-HD</key>
+				<string>meta_data-hd.png</string>
+				<key>ImageURL</key>
+				<string>/Users/yuncholho/work/sip324/EyeBall/code/EyeFall/EyeFall_LH/Resources/game/map/meta_data.png</string>
+				<key>ImageURL-HD</key>
+				<string>/Users/yuncholho/work/sip324/EyeBall/code/EyeFall/EyeFall_LH/Resources/game/map/meta_data-hd.png</string>
+				<key>Name</key>
+				<string>fire_wood1</string>
+				<key>Opacity</key>
+				<real>1</real>
+				<key>SD_ImageSize</key>
+				<string>{198, 186}</string>
+				<key>Scale</key>
+				<string>{1, 1}</string>
+				<key>ZOrder</key>
+				<integer>0</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>PhysicProperties</key>
+			<dict>
+				<key>AngularDamping</key>
+				<real>0.0</real>
+				<key>AngularVelocity</key>
+				<real>0.0</real>
+				<key>CanSleep</key>
+				<true/>
+				<key>Category</key>
+				<integer>1</integer>
+				<key>Density</key>
+				<real>0.20000000298023224</real>
+				<key>Fixtures</key>
+				<array/>
+				<key>Friction</key>
+				<real>0.20000000298023224</real>
+				<key>Group</key>
+				<integer>0</integer>
+				<key>IsBullet</key>
+				<false/>
+				<key>IsCircle</key>
+				<false/>
+				<key>IsFixedRot</key>
+				<false/>
+				<key>IsSensor</key>
+				<false/>
+				<key>LinearDamping</key>
+				<real>0.0</real>
+				<key>LinearVelocityX</key>
+				<real>0.0</real>
+				<key>LinearVelocityY</key>
+				<real>0.0</real>
+				<key>Mask</key>
+				<integer>65535</integer>
+				<key>PhysicType</key>
+				<integer>0</integer>
+				<key>Restitution</key>
+				<real>0.20000000298023224</real>
+				<key>SHHolesPoints</key>
+				<array/>
+				<key>SHShapePoints</key>
+				<array/>
+				<key>ShapeBorderH</key>
+				<integer>0</integer>
+				<key>ShapeBorderW</key>
+				<integer>0</integer>
+				<key>ShapePositionOffsetX</key>
+				<integer>0</integer>
+				<key>ShapePositionOffsetY</key>
+				<integer>0</integer>
+			</dict>
+			<key>TextureProperties</key>
+			<dict>
+				<key>Color</key>
+				<string>{{1, 1}, {1, 0}}</string>
+				<key>Frame</key>
+				<string>{{56, 45}, {64, 28}}</string>
+				<key>Frame-HD</key>
+				<string>{{112, 90}, {128, 56}}</string>
+				<key>FrameUV</key>
+				<string>{{0.282828, 0.241935}, {0.606061, 0.392473}}</string>
+				<key>HD_ImageSize</key>
+				<string>{396, 372}</string>
+				<key>Image</key>
+				<string>meta_data.png</string>
+				<key>Image-HD</key>
+				<string>meta_data-hd.png</string>
+				<key>ImageURL</key>
+				<string>/Users/yuncholho/work/sip324/EyeBall/code/EyeFall/EyeFall_LH/Resources/game/map/meta_data.png</string>
+				<key>ImageURL-HD</key>
+				<string>/Users/yuncholho/work/sip324/EyeBall/code/EyeFall/EyeFall_LH/Resources/game/map/meta_data-hd.png</string>
+				<key>Name</key>
+				<string>wood3</string>
+				<key>Opacity</key>
+				<real>1</real>
+				<key>SD_ImageSize</key>
+				<string>{198, 186}</string>
+				<key>Scale</key>
+				<string>{1, 1}</string>
+				<key>ZOrder</key>
+				<integer>0</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>PhysicProperties</key>
+			<dict>
+				<key>AngularDamping</key>
+				<real>0.0</real>
+				<key>AngularVelocity</key>
+				<real>0.0</real>
+				<key>CanSleep</key>
+				<true/>
+				<key>Category</key>
+				<integer>1</integer>
+				<key>Density</key>
+				<real>0.20000000298023224</real>
+				<key>Fixtures</key>
+				<array>
+					<array>
+						<string>{-25.6773, -32.1342}</string>
+						<string>{26.5443, -0.220985}</string>
+						<string>{-25.2629, 31.6922}</string>
+						<string>{-25.6773, 31.6922}</string>
+					</array>
+				</array>
+				<key>Friction</key>
+				<real>0.20000000298023224</real>
+				<key>Group</key>
+				<integer>0</integer>
+				<key>IsBullet</key>
+				<false/>
+				<key>IsCircle</key>
+				<false/>
+				<key>IsFixedRot</key>
+				<false/>
+				<key>IsSensor</key>
+				<false/>
+				<key>LinearDamping</key>
+				<real>0.0</real>
+				<key>LinearVelocityX</key>
+				<real>0.0</real>
+				<key>LinearVelocityY</key>
+				<real>0.0</real>
+				<key>Mask</key>
+				<integer>65535</integer>
+				<key>PhysicType</key>
+				<integer>0</integer>
+				<key>Restitution</key>
+				<real>0.20000000298023224</real>
+				<key>SHHolesPoints</key>
+				<array/>
+				<key>SHShapePoints</key>
+				<array>
+					<string>{2.14536, 91.1156}</string>
+					<string>{2.14536, 218.768}</string>
+					<string>{106.589, 154.942}</string>
+					<string>{2.97427, 91.1156}</string>
+				</array>
+				<key>ShapeBorderH</key>
+				<integer>0</integer>
+				<key>ShapeBorderW</key>
+				<integer>0</integer>
+				<key>ShapePositionOffsetX</key>
+				<integer>0</integer>
+				<key>ShapePositionOffsetY</key>
+				<integer>0</integer>
+			</dict>
+			<key>TextureProperties</key>
+			<dict>
+				<key>Color</key>
+				<string>{{1, 1}, {1, 0}}</string>
+				<key>Frame</key>
+				<string>{{0, 45}, {53.5, 64.5}}</string>
+				<key>Frame-HD</key>
+				<string>{{0, 90}, {107, 129}}</string>
+				<key>FrameUV</key>
+				<string>{{0, 0.241935}, {0.270202, 0.58871}}</string>
+				<key>HD_ImageSize</key>
+				<string>{396, 372}</string>
+				<key>Image</key>
+				<string>meta_data.png</string>
+				<key>Image-HD</key>
+				<string>meta_data-hd.png</string>
+				<key>ImageURL</key>
+				<string>/Users/yuncholho/work/sip324/EyeBall/code/EyeFall/EyeFall_LH/Resources/game/map/meta_data.png</string>
+				<key>ImageURL-HD</key>
+				<string>/Users/yuncholho/work/sip324/EyeBall/code/EyeFall/EyeFall_LH/Resources/game/map/meta_data-hd.png</string>
+				<key>Name</key>
+				<string>wood4</string>
+				<key>Opacity</key>
+				<real>1</real>
+				<key>SD_ImageSize</key>
+				<string>{198, 186}</string>
+				<key>Scale</key>
+				<string>{1, 1}</string>
+				<key>ZOrder</key>
+				<integer>0</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>PhysicProperties</key>
+			<dict>
+				<key>AngularDamping</key>
+				<real>0.0</real>
+				<key>AngularVelocity</key>
+				<real>0.0</real>
+				<key>CanSleep</key>
+				<true/>
+				<key>Category</key>
+				<integer>1</integer>
+				<key>Density</key>
+				<real>0.20000000298023224</real>
+				<key>Fixtures</key>
+				<array/>
+				<key>Friction</key>
+				<real>0.20000000298023224</real>
+				<key>Group</key>
+				<integer>0</integer>
+				<key>IsBullet</key>
+				<false/>
+				<key>IsCircle</key>
+				<false/>
+				<key>IsFixedRot</key>
+				<false/>
+				<key>IsSensor</key>
+				<false/>
+				<key>LinearDamping</key>
+				<real>0.0</real>
+				<key>LinearVelocityX</key>
+				<real>0.0</real>
+				<key>LinearVelocityY</key>
+				<real>0.0</real>
+				<key>Mask</key>
+				<integer>65535</integer>
+				<key>PhysicType</key>
+				<integer>0</integer>
+				<key>Restitution</key>
+				<real>0.20000000298023224</real>
+				<key>SHHolesPoints</key>
+				<array/>
+				<key>SHShapePoints</key>
+				<array/>
+				<key>ShapeBorderH</key>
+				<integer>0</integer>
+				<key>ShapeBorderW</key>
+				<integer>0</integer>
+				<key>ShapePositionOffsetX</key>
+				<integer>0</integer>
+				<key>ShapePositionOffsetY</key>
+				<integer>0</integer>
+			</dict>
+			<key>TextureProperties</key>
+			<dict>
+				<key>Color</key>
+				<string>{{1, 1}, {1, 0}}</string>
+				<key>Frame</key>
+				<string>{{96, 24}, {100, 10}}</string>
+				<key>Frame-HD</key>
+				<string>{{192, 48}, {200, 20}}</string>
+				<key>FrameUV</key>
+				<string>{{0.484848, 0.129032}, {0.989899, 0.182796}}</string>
+				<key>HD_ImageSize</key>
+				<string>{396, 372}</string>
+				<key>Image</key>
+				<string>meta_data.png</string>
+				<key>Image-HD</key>
+				<string>meta_data-hd.png</string>
+				<key>ImageURL</key>
+				<string>/Users/yuncholho/work/sip324/EyeBall/code/EyeFall/EyeFall_LH/Resources/game/map/meta_data.png</string>
+				<key>ImageURL-HD</key>
+				<string>/Users/yuncholho/work/sip324/EyeBall/code/EyeFall/EyeFall_LH/Resources/game/map/meta_data-hd.png</string>
+				<key>Name</key>
+				<string>steel4</string>
+				<key>Opacity</key>
+				<real>1</real>
+				<key>SD_ImageSize</key>
+				<string>{198, 186}</string>
+				<key>Scale</key>
+				<string>{1, 1}</string>
+				<key>ZOrder</key>
+				<integer>0</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>PhysicProperties</key>
+			<dict>
+				<key>AngularDamping</key>
+				<real>0.0</real>
+				<key>AngularVelocity</key>
+				<real>0.0</real>
+				<key>CanSleep</key>
+				<true/>
+				<key>Category</key>
+				<integer>1</integer>
+				<key>Density</key>
+				<real>0.20000000298023224</real>
+				<key>Fixtures</key>
+				<array>
+					<array>
+						<string>{-48.7733, 3.07226}</string>
+						<string>{-48.3588, -3.97351}</string>
+						<string>{49.8675, -4.38797}</string>
+						<string>{49.8675, 3.48672}</string>
+						<string>{-48.7733, 3.48672}</string>
+					</array>
+				</array>
+				<key>Friction</key>
+				<real>0.20000000298023224</real>
+				<key>Group</key>
+				<integer>0</integer>
+				<key>IsBullet</key>
+				<false/>
+				<key>IsCircle</key>
+				<false/>
+				<key>IsFixedRot</key>
+				<false/>
+				<key>IsSensor</key>
+				<false/>
+				<key>LinearDamping</key>
+				<real>0.0</real>
+				<key>LinearVelocityX</key>
+				<real>0.0</real>
+				<key>LinearVelocityY</key>
+				<real>0.0</real>
+				<key>Mask</key>
+				<integer>65535</integer>
+				<key>PhysicType</key>
+				<integer>0</integer>
+				<key>Restitution</key>
+				<real>0.20000000298023224</real>
+				<key>SHHolesPoints</key>
+				<array/>
+				<key>SHShapePoints</key>
+				<array>
+					<string>{194.453, 14.8555}</string>
+					<string>{195.282, 28.947}</string>
+					<string>{391.735, 29.7759}</string>
+					<string>{391.735, 14.0266}</string>
+					<string>{194.453, 14.0266}</string>
+				</array>
+				<key>ShapeBorderH</key>
+				<integer>0</integer>
+				<key>ShapeBorderW</key>
+				<integer>0</integer>
+				<key>ShapePositionOffsetX</key>
+				<integer>0</integer>
+				<key>ShapePositionOffsetY</key>
+				<integer>0</integer>
+			</dict>
+			<key>TextureProperties</key>
+			<dict>
+				<key>Color</key>
+				<string>{{1, 1}, {1, 0}}</string>
+				<key>Frame</key>
+				<string>{{96, 0}, {100, 21}}</string>
+				<key>Frame-HD</key>
+				<string>{{192, 0}, {200, 42}}</string>
+				<key>FrameUV</key>
+				<string>{{0.484848, 0}, {0.989899, 0.112903}}</string>
+				<key>HD_ImageSize</key>
+				<string>{396, 372}</string>
+				<key>Image</key>
+				<string>meta_data.png</string>
+				<key>Image-HD</key>
+				<string>meta_data-hd.png</string>
+				<key>ImageURL</key>
+				<string>/Users/yuncholho/work/sip324/EyeBall/code/EyeFall/EyeFall_LH/Resources/game/map/meta_data.png</string>
+				<key>ImageURL-HD</key>
+				<string>/Users/yuncholho/work/sip324/EyeBall/code/EyeFall/EyeFall_LH/Resources/game/map/meta_data-hd.png</string>
+				<key>Name</key>
+				<string>fire_wood2</string>
+				<key>Opacity</key>
+				<real>1</real>
+				<key>SD_ImageSize</key>
+				<string>{198, 186}</string>
+				<key>Scale</key>
+				<string>{1, 1}</string>
+				<key>ZOrder</key>
+				<integer>0</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>PhysicProperties</key>
+			<dict>
+				<key>AngularDamping</key>
+				<real>0.0</real>
+				<key>AngularVelocity</key>
+				<real>0.0</real>
+				<key>CanSleep</key>
+				<true/>
+				<key>Category</key>
+				<integer>1</integer>
+				<key>Density</key>
+				<real>0.20000000298023224</real>
+				<key>Fixtures</key>
+				<array>
+					<array>
+						<string>{31.4117, -21.2421}</string>
+						<string>{46.7466, -20.4132}</string>
+						<string>{-2.98824, 21.4469}</string>
+						<string>{-1.33041, 7.76986}</string>
+					</array>
+					<array>
+						<string>{-29.9279, -20.8277}</string>
+						<string>{-1.33041, 7.76986}</string>
+						<string>{-2.98824, 21.4469}</string>
+						<string>{-46.0918, -20.4132}</string>
+					</array>
+				</array>
+				<key>Friction</key>
+				<real>0.20000000298023224</real>
+				<key>Group</key>
+				<integer>0</integer>
+				<key>IsBullet</key>
+				<false/>
+				<key>IsCircle</key>
+				<false/>
+				<key>IsFixedRot</key>
+				<false/>
+				<key>IsSensor</key>
+				<false/>
+				<key>LinearDamping</key>
+				<real>0.0</real>
+				<key>LinearVelocityX</key>
+				<real>0.0</real>
+				<key>LinearVelocityY</key>
+				<real>0.0</real>
+				<key>Mask</key>
+				<integer>65535</integer>
+				<key>PhysicType</key>
+				<integer>0</integer>
+				<key>Restitution</key>
+				<real>0.20000000298023224</real>
+				<key>SHHolesPoints</key>
+				<array/>
+				<key>SHShapePoints</key>
+				<array>
+					<string>{0.487518, 82.8264}</string>
+					<string>{33.6441, 83.6553}</string>
+					<string>{90.8392, 26.4603}</string>
+					<string>{156.323, 84.4843}</string>
+					<string>{186.993, 82.8264}</string>
+					<string>{87.5235, -0.89389}</string>
+					<string>{1.31644, 82.8264}</string>
+				</array>
+				<key>ShapeBorderH</key>
+				<integer>0</integer>
+				<key>ShapeBorderW</key>
+				<integer>0</integer>
+				<key>ShapePositionOffsetX</key>
+				<integer>0</integer>
+				<key>ShapePositionOffsetY</key>
+				<integer>0</integer>
+			</dict>
+			<key>TextureProperties</key>
+			<dict>
+				<key>Color</key>
+				<string>{{1, 1}, {1, 0}}</string>
+				<key>Frame</key>
+				<string>{{0, 0}, {93.5, 42}}</string>
+				<key>Frame-HD</key>
+				<string>{{0, 0}, {187, 84}}</string>
+				<key>FrameUV</key>
+				<string>{{0, 0}, {0.472222, 0.225806}}</string>
+				<key>HD_ImageSize</key>
+				<string>{396, 372}</string>
+				<key>Image</key>
+				<string>meta_data.png</string>
+				<key>Image-HD</key>
+				<string>meta_data-hd.png</string>
+				<key>ImageURL</key>
+				<string>/Users/yuncholho/work/sip324/EyeBall/code/EyeFall/EyeFall_LH/Resources/game/map/meta_data.png</string>
+				<key>ImageURL-HD</key>
+				<string>/Users/yuncholho/work/sip324/EyeBall/code/EyeFall/EyeFall_LH/Resources/game/map/meta_data-hd.png</string>
+				<key>Name</key>
+				<string>wood5</string>
+				<key>Opacity</key>
+				<real>1</real>
+				<key>SD_ImageSize</key>
+				<string>{198, 186}</string>
+				<key>Scale</key>
+				<string>{1, 1}</string>
+				<key>ZOrder</key>
+				<integer>0</integer>
+			</dict>
+		</dict>
+	</array>
+	<key>ScenePreference</key>
+	<dict>
+		<key>BackgroundColor</key>
+		<string>{{0.894, 0.894}, {0.894, 1}}</string>
+		<key>GridSize</key>
+		<integer>32</integer>
+	</dict>
+	<key>Version</key>
+	<string>1.7.3</string>
+</dict>
+</plist>
